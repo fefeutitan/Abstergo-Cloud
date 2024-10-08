@@ -34,8 +34,8 @@ A implementação de ferramentas na empresa *[nome da empresa] tem como esperado
 
 ## Anexos
 - [Manuais de uso dos serviços AWS](https://docs.aws.amazon.com/pt_br/awssupport/latest/user/support-ug.pdf)
-- Documentação técnica dos scripts utilizados no AWS Lambda
-- Planilhas comparativas de custos pré e pós-implementação
+- [Documentação técnica dos scripts utilizados no AWS Lambda]
+- [Planilhas comparativas de custos pré e pós-implementação]
 
 
 Assinatura do Responsável pelo Projeto:
