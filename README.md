@@ -33,10 +33,10 @@ Etapa 3:
 A implementação de ferramentas na empresa *[nome da empresa] tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-
-- Manuais de uso dos serviços AWS
+- [Manuais de uso dos serviços AWS](https://docs.aws.amazon.com/pt_br/awssupport/latest/user/support-ug.pdf)
 - Documentação técnica dos scripts utilizados no AWS Lambda
 - Planilhas comparativas de custos pré e pós-implementação
+
 
 Assinatura do Responsável pelo Projeto:
 
